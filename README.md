@@ -1,4 +1,11 @@
-### Hi there 👋 I am Sounak Jana
+[![github profile](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/janasounak)
+
+<font color="#00ffff">
+<h1 align="center" color="">Hi 👋, I'm Sounak Jana</h1>
+<h3 align="center">A 1st year Student of MAKAUT,WB pursuing B.tech in CSE</h3>
+</font>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ffff&background=7A787847&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+profile%F0%9F%98%8A;I'm+an+eager+learner+and+a+tech+lover+;Give+a+look+into+my+works+;Have+a+nice+day+!!" align="center"/>
 
 <!--
 **janasounak/janasounak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

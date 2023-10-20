@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Web Devlopment**
 - 🧑🏼‍💻 I’m currently working on [makaut_buddy](https://github.com/Arindam200/makaut_buddy "makaut buddy")
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am also a nature photographer. You can check my work at ![instagram](https://img.shields.io/badge/chitrographer__sj-%23ffb7c5?logo=instagram)
+- ⚡ Fun fact: I am also a nature photographer. You can check my work at [![instagram](https://img.shields.io/badge/chitrographer__sj-%23ffb7c5?logo=instagram)](https://www.instagram.com/chitrographer_sj/)
 
 <font color="#0960DA">
 <h2>Languages and Tools :</h2>

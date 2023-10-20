@@ -1,15 +1,15 @@
 [![github profile](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/janasounak)
 
-<font color="#00ffff">
+<font color="#0960DA">
 <h1 align="center">Hi 👋, I'm Sounak Jana</h1>
 <h3 align="center">A 1st year Student of MAKAUT,WB pursuing B.tech in CSE</h3>
 </font>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ffff&background=7A787847&random=false&width=500&lines=Welcome+to+my+profile%F0%9F%98%8A;I'm+an+eager+learner+and+a+tech+lover+;Give+a+look+into+my+works+;Have+a+nice+day+!!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0960DA&background=7A787847&random=false&width=500&lines=Welcome+to+my+profile%F0%9F%98%8A;I'm+an+eager+learner+and+a+tech+lover+;Give+a+look+into+my+works+;Have+a+nice+day+!!" />
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<font color="#00ffff">
+<font color="#0960DA">
 <h2>About Me :</h2>
 </font>
 
@@ -18,7 +18,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a nature photographer. You can check my work at ![instagram](https://img.shields.io/badge/chitrographer__sj-%23ffb7c5?logo=instagram)
 
-<font color="#00ffff">
+<font color="#0960DA">
 <h2>Languages and Tools :</h2>
 </font>
 
@@ -28,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/HTML-white?logo=HTML5&logoColor=%23E34F26)
 ![CSS](https://img.shields.io/badge/CSS-white?logo=CSS3&logoColor=%231572B6)
 
-<font color="#00ffff">
+<font color="#0960DA">
 <h2>Contact Me :</h2>
 </font>
 

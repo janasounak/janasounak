@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ffff&background=7A787847&random=false&width=500&lines=Welcome+to+my+profile%F0%9F%98%8A;I'm+an+eager+learner+and+a+tech+lover+;Give+a+look+into+my+works+;Have+a+nice+day+!!" />
 
-<img align="right" alt="coding" width="400" src="web-design-layout.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <font color="#00ffff">
 <h2>About Me :</h2>

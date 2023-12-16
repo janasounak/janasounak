@@ -5,7 +5,7 @@
 <h3 align="center">A 1st year Student of MAKAUT,WB pursuing B.tech in CSE</h3>
 </font>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0960DA&background=7A787847&random=false&width=500&lines=Welcome+to+my+profile%F0%9F%98%8A;I'm+an+eager+learner+and+a+tech+lover+;Give+a+look+into+my+works+;Have+a+nice+day+!!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=04b1dd&background=7A787847&random=false&width=500&lines=Welcome+to+my+profile%F0%9F%98%8A;I'm+an+eager+learner+and+a+tech+lover+;Give+a+look+into+my+works+;Have+a+nice+day+!!" />
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
